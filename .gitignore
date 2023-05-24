@@ -11,7 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
-getGifs.js
+src/helpers/getGifs.js
 
 # Editor directories and files
 .vscode/*
